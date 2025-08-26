@@ -30,6 +30,9 @@ The project implements a realistic traffic management system:
 *   **Timer System:** `QTimer` and custom `TrafficTimer` class for precise timing control
 *   **UI/UX:** Qt Widgets with intuitive control interface
 
+## Screenshot
+
+![Screenshot](https://github.com/marrreric/coursework-oop/blob/main/OOP.jpg?raw=true)
 
 ## Building and Running
 
